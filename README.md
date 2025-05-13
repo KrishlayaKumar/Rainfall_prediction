@@ -67,19 +67,19 @@ To use the rainfall prediction app, follow these steps:
 ![Image](https://github.com/user-attachments/assets/96613ff1-18e8-4e82-b463-d8086d22b1e4)
 
 ### Prediction Page
-![Home Page](Screenshot/Screenshot 2025-05-04 163247.png)
+![Image](https://github.com/user-attachments/assets/581abd31-6300-4535-a31f-d0aa1613feae)
 
 ### About project Page
-![Home Page](Screenshot/Screenshot 2025-05-13 214149.png)
+![Image](https://github.com/user-attachments/assets/5557db99-43a6-42fb-88ce-80b9fe287c2d)
 
 ### Sunny Page
-![Home Page](Screenshot/Screenshot 2025-05-04 163416.png)
+![Image](https://github.com/user-attachments/assets/53a1f2da-d88e-4af3-83cb-3f6efd4d21b6)
 
 ### Rainy Page
-![Home Page](Screenshot/Screenshot 2025-05-04 163437.png)
+![Image](https://github.com/user-attachments/assets/6ff8662c-db33-4649-b244-47fc5ef5c079)
 
 ### Model Comparison
-![Home Page](Screenshot/Screenshot 2025-05-13 215221.png)
+![Image](https://github.com/user-attachments/assets/864316fb-af76-4fb6-a43a-df2e0b7c8cef)
 
 ## Acknowledgments
 
