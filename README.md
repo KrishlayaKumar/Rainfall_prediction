@@ -64,7 +64,7 @@ To use the rainfall prediction app, follow these steps:
 
 ## Screenshots
 ### Home Page
-[Image](https://github.com/user-attachments/assets/96613ff1-18e8-4e82-b463-d8086d22b1e4)
+![Image](https://github.com/user-attachments/assets/96613ff1-18e8-4e82-b463-d8086d22b1e4)
 
 ### Prediction Page
 ![Home Page](Screenshot/Screenshot 2025-05-04 163247.png)
