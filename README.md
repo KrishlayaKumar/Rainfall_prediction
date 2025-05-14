@@ -36,7 +36,7 @@ Model performance was evaluated using metrics such as accuracy, precision, recal
 
 ## Integration with Backend
 
-The XGBoost model with the best accuracy was integrated into the backend of the website. Users can input meteorological data, and the model predicts the likelihood of rainfall.
+The ANN model with the best accuracy was integrated into the backend of the website. Users can input meteorological data, and the model predicts the likelihood of rainfall.
 
 ## Usage
 
