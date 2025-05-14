@@ -32,7 +32,7 @@ Additionally, unsupervised learning models were trained on the data:
 
 ## Model Evaluation
 
-Model performance was evaluated using metrics such as accuracy, precision, recall, and F1-score. XGBoost yielded the highest accuracy among all models.
+Model performance was evaluated using metrics such as accuracy, precision, recall, and F1-score. ANN yielded the highest accuracy among all models.
 
 ## Integration with Backend
 
